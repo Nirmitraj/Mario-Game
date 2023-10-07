@@ -1,0 +1,7 @@
+body{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+#board{
+    background-image: url(images/marioBg.png);
+}
